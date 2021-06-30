@@ -1,0 +1,34 @@
+h1{
+    color: black;
+}
+
+body{
+    background: whitesmoke;
+}
+
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    text-align: center;
+}
+
+.origami{
+    background-image: url(https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8184.jpg?size=626&ext=jpg&ga=GA1.2.1678953157.1623628800);
+}
+
+.b{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    text-align: center;
+
+}
+
+.c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-right: 500px;
+    text-align: center;
+}
